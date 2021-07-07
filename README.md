@@ -1,0 +1,1 @@
+This is Petr's first git project while going through Odin Project!
